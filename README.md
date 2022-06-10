@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Basketball Scoreboard - Scrimba JavaScript Challenge
 
 ## Supporting Scrimba
 
